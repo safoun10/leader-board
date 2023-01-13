@@ -92,11 +92,43 @@ a{
     grid-row-gap: 26px;
 }
 
-/* .course{
+.bottom{
     width: 870px;
     background-color: #FFFFFF;
     margin-bottom: 20px;
     padding: 33px;
     border-radius: 5px;
-} */
+}
 
+.course-banner>img{
+    width: 224px;
+    height: 104px;
+}
+
+.solid{
+    color: #FFC014;
+    font-size: 12px;
+}
+
+.faded{
+    color: #AEAEAE;
+    opacity: 0.25;
+    font-size: 12px;
+}
+
+.rating-amount{
+    color: #A2A2A2;
+    display: inline;
+    margin-left: 10px;
+
+}
+
+.course-info-heading{
+    width: 225px;
+    font-size: 16px;
+    color: #1E1E1E;
+}
+
+.course-author>a{
+    font-size: 15px;
+}
