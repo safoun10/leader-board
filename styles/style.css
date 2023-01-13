@@ -165,6 +165,7 @@ a{
 .logo-text{
     font-size: 24px;
     margin-left: 16px;
+    color: #FFFFFF;
 }
 
 .logo{
@@ -194,4 +195,6 @@ nav{
 
 header{
     background-color: #8878cf;
+    position: sticky;
+    top: 0px;
 }
