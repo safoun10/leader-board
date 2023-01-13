@@ -157,3 +157,41 @@ a{
     display: flex;
     justify-content: space-between;
 }
+
+.logo-image>img{
+    width: 40px;
+}
+
+.logo-text{
+    font-size: 24px;
+    margin-left: 16px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    list-style: none;
+    margin-left: 36px;
+}
+
+li>a{
+    color: #FFFFFF;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 285px;
+}
+
+header{
+    background-color: #8878cf;
+}
